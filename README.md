@@ -17,9 +17,9 @@ Hoshify is a modern, full-stack AI platform that democratizes access to state-of
   <summary>Click here to see the Overview Images</summary>
   <br>
   <p align="center">
-    <img src="./assets/image-1.png" width="48%">
-    <img src="./assets/image-2.png" width="48%">
-    <img src="./assets/image-3.png" width="48%">
+    <img src="./Assets/image-1.png" width="48%">
+    <img src="./Assets/image-2.png" width="48%">
+    <img src="./Assets/image-3.png" width="48%">
   </p>
 </details>
 
